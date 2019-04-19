@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CustomRefreshControl
 //
-//  Created by Shankar B S on 26/03/17.
+//  Created by Annupriya on 26/08/17.
 /*
  Except where otherwise noted in the source code (e.g. the files hash.c,
  list.c and the trio files, which are covered by a similar licence but
